@@ -1,0 +1,20 @@
+ .line{
+    border-bottom: 1px solid lightgray;
+  }
+
+.route-schedule-time{
+  text-decoration: none;
+  color: black;
+}
+
+.route-schedule-time.active{
+  color: grey;
+}
+
+.edit-hidden{
+  visibility: hidden;
+}
+
+.edit-hidden.active{
+  visibility: visible;
+}
